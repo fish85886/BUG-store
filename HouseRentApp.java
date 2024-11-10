@@ -8,5 +8,6 @@ public class HouseRentApp {
         houseView.houseMenu();
         System.out.println("--------------房屋出租系统已退出--------------");
     }
-    System.out.println("super-----sb-刘英豪");
+    System.out.println("-亓勇展");
+    //20241110 Modified
 }
